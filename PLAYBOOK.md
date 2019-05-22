@@ -7,9 +7,12 @@
 - 2-3 minutes before the starting time, ask everyone to take a seat
 - Introduce the first speaker and the title of the talk
 - Give the speaker a visual sign 2-3 minutes before the time runs out
+- Thank the speaker
 - Ask speakers to switch cables / laptops
 - Introduce the second speaker and the title of the talk
 - Give the speaker a visual sign 2-3 minutes before the time runs out
+- Thank the speaker
+- Thank everyone for coming
 - End the formal part of the event
 
 ### Guidelines 
