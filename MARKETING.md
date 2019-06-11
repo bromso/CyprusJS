@@ -1,5 +1,17 @@
 # Marketing & Adversiting Channels
 
+## Statements
+### Mission
+CyprusJS organize events in Cyprus in order to connect, educate and inspire all types of programmers, designers, digital nomads, pupils & entrepreneurs that works or want to learn more about the wonderful programming language: JavaScript.
+The hosted events aim to create good socialising & networking opportunities while also providing public talks that touches on all aspects, such as creative-, engineering- and business perspectives, of working with JavaScript.
+
+### Vision
+To become they the top of mind organizer of JavaScript related events in Cyprus and connecting all types of people that has a connection to JavaScript.
+
+### Values
+To up hold the spirit of being an open, transparent organizer of events and follow the open-source philosophy.
+
+
 ## CyprusJS Official Channels
 
 * [Website](https://cyprusjs.org/)
